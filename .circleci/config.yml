@@ -12,7 +12,7 @@ jobs:
     steps:
       - checkout
       - run: gem install bundler
-      - ruby/bundle-install
+      - run: bundle install
       - run: bundle exec rspec
 # The updated version by Clare
   # build_and_test:
