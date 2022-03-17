@@ -8,3 +8,5 @@ gem "rspec"
 gem "sinatra"
 gem 'capybara'
 gem 'rack'
+gem 'thin'
+gem 'foreman'
