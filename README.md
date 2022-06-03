@@ -1,2 +1,2 @@
 # rf-mt-sinatra
-This is the Sinatra repository.
+This is the Sinatra repository!
